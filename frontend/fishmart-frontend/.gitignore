@@ -24,3 +24,5 @@ dist-ssr
 *.sw?
 .env
 settings.py
+backend/.env
+.envgit
